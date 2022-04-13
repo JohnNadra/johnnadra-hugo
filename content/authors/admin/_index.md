@@ -72,4 +72,4 @@ John Nadra is a graduate student working with Dr. George Ron Mangun at the Cente
 
 In his spare time, he enjoys playing video games, reading books and playing with his cat, Deku.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JN_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
