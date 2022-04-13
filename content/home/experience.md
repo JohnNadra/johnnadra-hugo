@@ -32,7 +32,7 @@ experience:
         Responsibilities include:
         
         * Analyzing data
-        * Crafting experiences
+        * Crafting experiments
         * Collaborating across labs
         
   - title: Research Assistant
