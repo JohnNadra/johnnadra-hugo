@@ -27,10 +27,11 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analyzing behavioral, EEG and fMRI data
-  * Crafting experiments
-  * Implementing research studies utilizing machine learning
+  * Analyzing behavioral, eye-tracking, EEG and fMRI data
+  * Developing novel experimental paradigms to assess various mechanisms of visual attention
+  * Implementing research studies utilizing machine learning, logistic regression, mixed effects models, t-tests and ANOVAs
   * Leading and mentoring a team of research assistants
+  * Summarizing findings in multiple publications and presenting at scientific conferences
   """
 
 [[experience]]
