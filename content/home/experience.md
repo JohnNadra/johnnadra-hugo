@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Analyzing behavioral, eye-tracking, EEG and fMRI data
-  * Developing novel experimental paradigms to assess various mechanisms of visual attention
-  * Implementing research studies utilizing machine learning, logistic regression, mixed effects models, t-tests and ANOVAs
+  * Developing experimental paradigms to assess mechanisms of visual attention
+  * Implementing research studies utilizing machine learning, logistic regression, mixed effects models, t-tests, and ANOVAs
   * Leading and mentoring a team of research assistants
   * Summarizing findings in multiple publications and presenting at scientific conferences
   """
