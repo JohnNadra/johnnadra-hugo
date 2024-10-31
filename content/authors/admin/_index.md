@@ -19,15 +19,15 @@ bio: My research interests include cognitive neuroscience, machine learning and 
 # Interests to show in About widget
 interests:
 - Cognitive Neuroscience
+- Willed Attention
 - Machine Learning
-- Data Science
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Psychology
     institution: University of California, Davis
-    year: Ongoing
+    year: 2024
   - course: MA in Psychology
     institution: University of California, Davis
     year: 2021
@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-John Nadra is a cognitive neuroscientist working with Dr. George Ron Mangun at the Center for Mind and Brain analyzing the neural mechanisms of attention in various capacities. The research conducted at the Mangun Laboratory utilizes eye-tracking, EEG, and fMRI to analyze saccadic activity, event related potentials, and BOLD signals, conduct spectral analysis, decode neural oscillations, and employ machine learning methods. Within this work, he is currently focused on investigating how self-generated momentary intentions in the absence of cues initiate voluntary attention orienting.
+John Nadra is a cognitive neuroscientist working with Dr. George Ron Mangun at the Center for Mind and Brain analyzing the neural mechanisms of attention in various capacities. The research conducted at the Mangun Laboratory utilizes eye-tracking, EEG, and fMRI to analyze saccadic activity, event related potentials, and BOLD signals, conduct spectral analysis, decode neural oscillations, and employ machine learning methods. Within this work, he is currently focused on investigating how self-generated momentary intentions in the absence of external cues initiate voluntary attention orienting.
 
 In his spare time, he enjoys playing video games, reading books and playing with his cats, Deku and Kaya.
 
