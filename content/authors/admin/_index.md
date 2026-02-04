@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-John Nadra is a cognitive neuroscientist working with Dr. George R. Mangun at the Center for Mind and Brain analyzing the neural mechanisms of attention in various capacities. John's research utilizes eye-tracking, EEG, MEG, fMRI and simultaneous EEG/fMRI to analyze saccadic activity, event related potentials, and BOLD signals, as well as to conduct spectral analyses, decode neural oscillations, and employ machine learning methods. Within this work, he is currently focused on investigating how self-generated momentary intentions in the absence of external cues initiate volitional attention orienting.
+John Nadra is a cognitive neuroscientist working with Dr. Taosheng Liu at Michigan State University analyzing the neural mechanisms of attention and working memory in various capacities. John's research utilizes eye-tracking, EEG, MEG, fMRI and simultaneous EEG/fMRI to analyze saccadic activity, event related potentials, and BOLD signals, as well as to conduct spectral analyses, decode neural oscillations, and employ machine learning methods. Within this work, he is currently focused on investigating how self-generated momentary intentions initiate volitional orienting across working memory and attention.
 
 In his spare time, he enjoys playing video games, listening to music and playing with his cats, Deku and Kaya.
 
