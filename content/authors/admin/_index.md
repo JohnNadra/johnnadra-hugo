@@ -10,8 +10,8 @@ role: Cognitive Neuroscientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of California, Davis
-  url: https://mindbrain.ucdavis.edu/
+- name: Michigan State University
+  url: https://npal.psy.msu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cognitive neuroscience, machine learning and data science.
@@ -43,9 +43,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jnadra@ucdavis.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/John_Nadra
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=BTwVXYEAAAAJ&hl=en&authuser=1
